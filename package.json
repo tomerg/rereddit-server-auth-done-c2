@@ -1,4 +1,11 @@
 {
+  "name":"rereddit-dev",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
+
+{
   "name": "rereddit-dev",
   "version": "0.0.0",
   "dependencies": {
